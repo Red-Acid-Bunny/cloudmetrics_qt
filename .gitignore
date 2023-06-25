@@ -1,0 +1,8 @@
+/build*
+/viewer/build*
+/viewer/create_standart_cmake_file.sh
+/tests
+/ply_exemple
+
+create_standart_cmake_file.sh
+*.backup
